@@ -1,0 +1,14 @@
+.btn-primary {
+  display: inline-block;
+  margin: 15px auto;
+  background-color: #3bc062;
+  color: white;
+  padding: 15px 25px;
+  border-radius: 50px;
+  font-weight: bold;
+  opacity: 0.8;
+}
+
+.btn-primary:hover {
+  opacity: 0.9;
+}
